@@ -1,4 +1,3 @@
-// lib/screens/dashboard.dart
 import 'package:flutter/material.dart';
 import '../widgets/nav_drawer.dart';
 
